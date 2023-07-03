@@ -8,7 +8,7 @@ const Data = [
     endDate: "28/07/2023",
     description:
       "I visited Athens for my 30th Birthday and saw the Acropolis, an ancient citadel that sits on an outcrop above the city and containing several ancient buildings, including the Parthenon.",
-    imageUrl: "/assets/acropolis.png",
+    imageUrl: "https://source.unsplash.com/yqBvJJ8jGBQ",
   },
   {
     key: 2,
@@ -19,7 +19,7 @@ const Data = [
     endDate: "20/02/2023",
     description:
       "I surprised my boyfriend with a trip to Vienna, where we went to see his favourite opera, Salome, at the the opera house",
-    imageUrl: "/assets/vienna-opera.png",
+    imageUrl: "https://source.unsplash.com/BqDcXg6ZyQE",
   },
   {
     key: 3,
@@ -30,7 +30,7 @@ const Data = [
     endDate: "03/08/2022",
     description:
       "In 2022, I went around the Norwegian fjörds. One of the most impressive sights was pulpit rock, which has a sheer drop of 604 metres down to the fjörd below.",
-    imageUrl: "/assets/pulpit-rock.png",
+    imageUrl: "https://source.unsplash.com/2XSdDYFuQQw",
   }
   ,{
     key: 4,
@@ -41,7 +41,7 @@ const Data = [
     endDate: "14/04/2022",
     description:
       "I've been to Paris many times and actually used to live there, and my favourite building there is definitely the Sainte-Chapelle because of its beautiful stained glass windows.",
-    imageUrl: "/assets/sainte-chapelle.png",
+    imageUrl: "https://source.unsplash.com/ZlIIA-4sGXU",
   },
 ];
 
