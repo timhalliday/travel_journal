@@ -5,3 +5,7 @@
 /* Component Styling */
 @import "./css/navbar.scss";
 @import "./css/hero.scss";
+@import "./css/card.scss";
+
+$enable-grid-classes: false;
+$enable-cssgrid: true;

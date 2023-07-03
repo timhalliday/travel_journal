@@ -6,7 +6,7 @@ export default function Navbar() {
   return (
     <header className="nav-bar">
 
-      <h2><FontAwesomeIcon icon="fa-solid fa-earth" />  My Travel Journal</h2>
+      <h2><FontAwesomeIcon icon="fa-solid fa-earth" />   My Travel Journal</h2>
     </header>
   )
 }

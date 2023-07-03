@@ -1,6 +1,7 @@
 .hero {
   padding: 24px 0;
   width: 100%;
+  margin-bottom: 48px;
 }
 
 .hero-image {
@@ -15,4 +16,5 @@
   font-weight: 100;
   font-size: 40px;
   letter-spacing: 1px;
+  color: $off-black;
 }
