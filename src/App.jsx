@@ -15,6 +15,7 @@ import { fab } from '@fortawesome/free-brands-svg-icons'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Card from './components/Card'
+import Footer from './components/Footer'
 
 import Data from "./data.js"
 
@@ -34,6 +35,7 @@ function App() {
           {cards}
         </div>
       </div>
+      <Footer />
     </div>
   )
 }
